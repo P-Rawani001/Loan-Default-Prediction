@@ -13,7 +13,7 @@ The goal of this project is to build a classification model that helps financial
 * **Model Training:** Built and compared **Logistic Regression** and **Random Forest Classifier**.
 * **Model Evaluation:** Achieved a validation accuracy of **83%** and used **5-Fold Cross-Validation** for robust performance estimation.
 
-![Correlation Heatmap](images/heatmap.png)
+![Correlation Heatmap](heatmap.png)
 
 ## 🛠️ Technologies Used
 * **Python** (Core Logic)
